@@ -1,6 +1,6 @@
 import re
 
-ef = input('Enter File Location: ')
+ef = input("Enter File Location: ")
 
 # Open the file for reading
 with open(ef, 'r') as file:
